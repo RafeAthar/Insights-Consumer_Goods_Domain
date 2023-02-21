@@ -2,12 +2,14 @@
 
 <br/>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45414297/220276719-4f58da5c-d75b-468a-9341-156e22d57157.png" height =300>
+<img src="https://user-images.githubusercontent.com/45414297/220276719-4f58da5c-d75b-468a-9341-156e22d57157.png" height =350>
 </p>
 <br/>
 The project provides insights to executive management of 'Atliq Hardwares' (An Imaginary computer hardware manufacturer) for data-informed decision making.
 This project is the fourth challenge of Codebasics Resume Project Challenge Series. Details of the files are as follows:
 
+
+<br/>
 <br/>
 
 ***Atliq_Hardware_DB_Creation.sql*** is the provided code to create database for this project.
